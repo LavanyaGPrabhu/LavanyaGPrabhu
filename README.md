@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Text Analysis and Sentiment Analysis using NLP**
 
-- 📫 How to reach me **lavanya.prabhutwo@gmail.com**
+- 📫 How to reach me **lavanya.prabhufour@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
