@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanyagprabhu&theme=dark&show_icons=true&locale=en" alt="lavanyagprabhu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanyagprabhu&theme=dark&" alt="lavanyagprabhu" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanyagprabhu&theme=dark&show_icons=true&locale=en&layout=compact" alt="lavanyagprabhu" /></p>
 
